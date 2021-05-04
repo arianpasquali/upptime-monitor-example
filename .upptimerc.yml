@@ -12,10 +12,6 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"locale": "en"}'
-
-  # - name: cl2-nlp (Epic) [endpoint:geotagging]
-  #   url: $EPIC_URL/v1/tenants{$TENANT_ID_GEOTAGGING}/geotagging
-  #   body: 
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
