@@ -4,7 +4,7 @@ repo: upptime-monitor-example # The name of this repository
 
 sites:
   - name: cl2-nlp-api (Epic)
-    url: $EPIC_URL
+    url: $EPIC_URL/v2/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
