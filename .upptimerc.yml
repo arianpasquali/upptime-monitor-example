@@ -5,8 +5,6 @@ repo: upptime-monitor-example # The name of this repository
 sites:
   - name: cl2-nlp (Epic)
     url: $EPIC_URL/v2/health
-    expectedStatusCodes:
-      - 200
 
   - name: cl2-nlp (Epic) [endpoint:tenants]
     url: $EPIC_URL/v1/tenants
