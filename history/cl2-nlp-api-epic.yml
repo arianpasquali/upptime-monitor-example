@@ -1,7 +1,7 @@
-url: ${{ secrets.EPIC_URL }}
+url: $EPIC_URL
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2021-05-04T15:45:25.447Z
+lastUpdated: 2021-05-04T15:58:52.636Z
 startTime: Tue May 04 2021 14:50:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
