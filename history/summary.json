@@ -1,20 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
-    "dailyMinutesDown": {}
+    "name": "cl2-nlp-api (Epic)",
+    "url": "$EPIC_URL/v2/health",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "cl2-nlp-api-epic",
+    "status": "down",
+    "uptime": "20.49%",
+    "uptimeDay": "20.49%",
+    "uptimeWeek": "20.49%",
+    "uptimeMonth": "20.49%",
+    "uptimeYear": "20.49%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-05-04": 0
+    }
   }
 ]
