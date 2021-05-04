@@ -7,7 +7,7 @@ sites:
     url: $EPIC_URL/v2/health
 
   - name: cl2-nlp (Epic) [endpoint:tenants]
-    url: $EPIC_URL/v1/tenants?locale=en
+    url: $EPIC_URL/v1/tenants/?locale=en
     method: GET
   
   - name: cl2-nlp (Epic) [endpoint:tag_suggestions]
