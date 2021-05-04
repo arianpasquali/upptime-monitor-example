@@ -1,7 +1,7 @@
 [
   {
     "name": "cl2-nlp-api (Epic)",
-    "url": "${{ secrets.EPIC_URL }}",
+    "url": "$EPIC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-api-epic",
     "status": "down",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-04": 55
+      "2021-05-04": 68
     }
   }
 ]
