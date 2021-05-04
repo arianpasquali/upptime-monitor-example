@@ -1,22 +1,22 @@
 [
   {
     "name": "cl2-nlp-api (Epic)",
-    "url": "$EPIC_URL",
+    "url": "$EPIC_URL/v2/health",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-api-epic",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
+    "time": 301,
+    "timeDay": 301,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2021-05-04": 68
+      "2021-05-04": 69
     }
   }
 ]
