@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-api-epic",
     "status": "down",
-    "uptime": "4.75%",
-    "uptimeDay": "4.75%",
-    "uptimeWeek": "4.75%",
-    "uptimeMonth": "4.75%",
-    "uptimeYear": "4.75%",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-04": 0
+      "2021-05-04": 5
     }
   }
 ]
