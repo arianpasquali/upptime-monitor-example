@@ -12,6 +12,13 @@ sites:
     headers:
       - "Content-Type: application/json"
   
+  - name: cl2-nlp (Epic) [endpoint:tag_suggestions]
+    url: $EPIC_URL/v2/tag_suggestions
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "max_number_of_suggestions":5, "locale":"en", "texts":[ "google is acquiring data science community kaggle. Sources tell us that google is acquiring kaggle, a platform that hosts data science and machine learning competitions. Details about the transaction remain somewhat vague , but given that google is hosting its Cloud Next conference in san francisco this week, the official announcement could come as early as tomorrow." ] }'
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
