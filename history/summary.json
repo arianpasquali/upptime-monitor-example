@@ -1,22 +1,22 @@
 [
   {
     "name": "cl2-nlp-api (Epic)",
-    "url": "$EPIC_URL",
+    "url": "${{ secrets.EPIC_URL }}",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-api-epic",
     "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-04": 14
+      "2021-05-04": 55
     }
   }
 ]
