@@ -4,36 +4,39 @@
     "url": "$EPIC_URL/v2/health",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 230,
     "timeDay": 168,
     "timeWeek": 255,
     "timeMonth": 230,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-14": 2
+    }
   },
   {
     "name": "cl2-nlp (Epic) [endpoint:tenants]",
     "url": "$EPIC_URL/v1/tenants/?locale=en",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-tenants",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 254,
     "timeDay": 217,
     "timeWeek": 286,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2021-05-14": 1,
       "2021-05-04": 25
     }
   },
@@ -42,10 +45,10 @@
     "url": "$EPIC_URL/v2/tag_suggestions",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-tag-suggestions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
@@ -53,16 +56,18 @@
     "timeWeek": 287,
     "timeMonth": 274,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-14": 1
+    }
   },
   {
     "name": "cl2-nlp (Epic) [endpoint:zeroshot classification]",
     "url": "$EPIC_URL/v2/zeroshot_classification",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-zeroshot-classification",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +76,8 @@
     "timeWeek": 266,
     "timeMonth": 256,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-14": 0
+    }
   }
 ]
