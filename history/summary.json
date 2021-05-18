@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 294,
-    "timeWeek": 248,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 239,
+    "timeDay": 284,
+    "timeWeek": 247,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-tenants",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 263,
-    "timeDay": 321,
-    "timeWeek": 283,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 267,
+    "timeDay": 339,
+    "timeWeek": 286,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2021-05-04": 25
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 323,
-    "timeWeek": 274,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 281,
+    "timeDay": 345,
+    "timeWeek": 278,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
+    "time": 262,
     "timeDay": 305,
     "timeWeek": 255,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {}
   }
 ]
