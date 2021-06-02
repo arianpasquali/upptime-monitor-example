@@ -1,7 +1,7 @@
 url: $EPIC_URL/v1/tenants/?locale=en
 status: up
 code: 200
-responseTime: 350
-lastUpdated: 2021-06-01T23:54:12.135Z
+responseTime: 331
+lastUpdated: 2021-06-02T23:54:34.695Z
 startTime: Tue May 04 2021 17:46:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
