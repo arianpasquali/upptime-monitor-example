@@ -1,7 +1,7 @@
 url: $EPIC_URL/v2/health
 status: up
 code: 200
-responseTime: 305
-lastUpdated: 2021-08-05T23:18:24.306Z
+responseTime: 169
+lastUpdated: 2021-08-06T23:17:59.386Z
 startTime: Tue May 04 2021 17:46:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
