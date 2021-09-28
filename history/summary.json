@@ -4,9 +4,9 @@
     "url": "$EPIC_URL/v2/health",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 274,
     "timeMonth": 240,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-28": 0
+    }
   },
   {
     "name": "cl2-nlp (Epic) [endpoint:tenants]",
     "url": "$EPIC_URL/v1/tenants/?locale=en",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-tenants",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +36,7 @@
     "timeMonth": 306,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2021-09-28": 0,
       "2021-05-04": 25
     }
   },
@@ -42,9 +45,9 @@
     "url": "$EPIC_URL/v2/tag_suggestions",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-tag-suggestions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +56,18 @@
     "timeWeek": 286,
     "timeMonth": 253,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-28": 0
+    }
   },
   {
     "name": "cl2-nlp (Epic) [endpoint:zeroshot classification]",
     "url": "$EPIC_URL/v2/zeroshot_classification",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-zeroshot-classification",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +76,8 @@
     "timeWeek": 280,
     "timeMonth": 245,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-28": 0
+    }
   }
 ]
