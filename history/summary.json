@@ -4,19 +4,19 @@
     "url": "$EPIC_URL/v2/health",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 307,
-    "timeWeek": 274,
-    "timeMonth": 240,
+    "timeDay": 286,
+    "timeWeek": 273,
+    "timeMonth": 241,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2021-09-28": 0
+      "2021-09-28": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$EPIC_URL/v1/tenants/?locale=en",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-tenants",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 288,
-    "timeDay": 377,
-    "timeWeek": 341,
-    "timeMonth": 306,
+    "timeDay": 333,
+    "timeWeek": 334,
+    "timeMonth": 305,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2021-09-28": 0,
+      "2021-09-28": 10,
       "2021-05-04": 25
     }
   },
@@ -45,19 +45,19 @@
     "url": "$EPIC_URL/v2/tag_suggestions",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cl2-nlp-epic-endpoint-tag-suggestions",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 325,
-    "timeWeek": 286,
-    "timeMonth": 253,
-    "timeYear": 255,
+    "time": 259,
+    "timeDay": 612,
+    "timeWeek": 363,
+    "timeMonth": 273,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2021-09-28": 0
+      "2021-09-28": 10
     }
   },
   {
@@ -67,9 +67,9 @@
     "slug": "cl2-nlp-epic-endpoint-zeroshot-classification",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 315,
@@ -77,7 +77,7 @@
     "timeMonth": 245,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2021-09-28": 0
+      "2021-09-28": 11
     }
   }
 ]
