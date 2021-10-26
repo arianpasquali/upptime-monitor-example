@@ -1,7 +1,7 @@
 url: $EPIC_URL/v2/zeroshot_classification
 status: down
 code: 400
-responseTime: 307
-lastUpdated: 2021-10-25T23:19:32.146Z
+responseTime: 172
+lastUpdated: 2021-10-26T23:19:39.601Z
 startTime: Tue May 04 2021 18:18:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
